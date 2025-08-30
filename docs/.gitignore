@@ -1,0 +1,4 @@
+echo "*.o" > .gitignore
+echo "run" > .gitignore
+echo "*.exe" > .gitignore
+echo "*.DS_Store" > .gitignore
